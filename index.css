@@ -1,0 +1,108 @@
+#reece{
+    height: 450px;
+    float: left;
+}
+.info{
+    margin-left: 350px;
+}
+.additionalInfo{
+    float: right;
+    padding-right: 320px;
+    margin-top: 30px;
+}
+.additionalInfo .block1{
+    display: inline-block;
+}
+.additionalInfo .block2{
+    display: inline-block;
+}
+.additionalInfo #subject{
+    margin-left: 160px;
+}
+.additionalInfo #valorant{
+    vertical-align: top;
+}
+.additionalInfo #songs{
+    margin-left: 30px;
+}
+.additionalInfo #valorant, #songs{
+    margin-top: 40px;
+}
+
+#education img{
+    height: 30px;
+}
+#subject img{
+    height: 30px;
+}
+#songs img{
+    height: 25px;
+}
+#valorant img{
+    height: 20px;
+}
+.additionalInfo #education img{
+    display: inline-block;
+}
+.additionalInfo #education h2{
+    display: inline-block;
+}
+.additionalInfo #subject img{
+    display: inline-block;
+  
+}
+.additionalInfo #subject h2{
+    display: inline-block;
+   
+}
+.additionalInfo #valorant img{
+    display: inline-block;
+   
+}
+.additionalInfo #valorant h2{
+    display: inline-block;
+ 
+}
+.additionalInfo #songs img{
+    display: inline-block;
+    
+}
+.additionalInfo #songs h2{
+    display: inline-block;
+   
+}
+
+.series{
+    clear: both;
+    text-align: center;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 250px;
+    padding: 0 20px;
+}
+
+.series #umbrella, #stranger, #witcher, #friends, #thrones{
+    display: inline-block;
+}
+.series #umbrella img{
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+}
+.series #stranger img{
+    height: 150px;
+    border-radius: 30px;
+}
+.series #witcher img{
+    height: 150px;
+    border-radius: 30px;
+}
+.series #friends img{
+    height: 150px;
+    border-radius: 30px;
+}
+.series #thrones img{
+    height: 150px;
+    border-radius: 30px;
+
+}
