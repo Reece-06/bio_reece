@@ -1,3 +1,4 @@
+
 #reece{
     height: 450px;
     float: left;
@@ -7,7 +8,7 @@
 }
 .additionalInfo{
     float: right;
-    padding-right: 320px;
+    padding-right: 210px;
     margin-top: 30px;
 }
 .additionalInfo .block1{
@@ -71,7 +72,24 @@
     display: inline-block;
    
 }
-
+#valorant{
+    border: 1px solid black;
+}
+.additionalInfo #valorant {
+    box-sizing: border-box;
+    background-color: darkcyan;
+}
+.additionalInfo #valorant div{
+    border: 1px solid black;
+    height: 140px;
+    background-image: url("/images/chamber.jpg");
+    background-size: cover;
+}
+.additionalInfo #valorant div p{
+    color: white;
+    padding-left: 10px;
+    padding-top: 5px;
+}
 .series{
     clear: both;
     text-align: center;
